@@ -5,14 +5,29 @@
 <p align="left">A frontend developer from the midwest. I'm passionate about making the internet a better place through accessibility, design, and ease of use. I create websites with JavaScript, CSS, and HTML in React using VS Code and WebPack/Vite. I'm also an AWS Certified Cloud Practitioner, experienced in using SES, S3, Lambda, & DynamoDB for storing, forwarding, & hosting email services in the cloud. Occasionally you can find me modding electronics and editing code for IoT and hardware projects using Arduinos or Raspberry Pis.</p>
 
 <h2 align="left">My Tech Stack</h2>
+<picture>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="pointer-events: none;" />
+</picture>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<picture>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="pointer-events: none;" />
+</picture>
+<picture>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="pointer-events: none;" />
+</picture>
+<picture>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="pointer-events: none;" />
+</picture>
+<picture>
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" style="pointer-events: none;" />
+</picture>
+<picture>
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="pointer-events: none;" />
+</picture>
+<picture>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="pointer-events: none;" />
+</picture>
+ 
 
 <h2>Get in touch</h3>
 <p>Feel free to follow me or reach out to me regarding questions, feedback, criticism or quite literally *anything* else.</p>
