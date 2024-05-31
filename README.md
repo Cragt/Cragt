@@ -2,7 +2,7 @@
 <p>View my website <a href="https://craigtaylor.dev">here</a>.</p>
 
 <h2 align="left">About Me</h2>
-<p align="left">A frontend developer from the midwest. I'm passionate about making the internet a better place through accessibility, design, and ease of use. I create websites with JavaScript, CSS, and HTML in React using VS Code and WebPack/Vite. I'm also an AWS Certified Cloud Practitioner, using SES, S3, Lambda, & DynamoDB for storing, forwarding, & hosting email services in the cloud. Occasionally you can find me modding electronics and editing code for hardware projects using Arduinos or Raspberry Pis.</p>
+<p align="left">A frontend developer from the midwest. I'm passionate about making the internet a better place through accessibility, design, and ease of use. I create websites with JavaScript, CSS, and HTML in React using VS Code and WebPack/Vite. I'm also an AWS Certified Cloud Practitioner, experienced in using SES, S3, Lambda, & DynamoDB for storing, forwarding, & hosting email services in the cloud. Occasionally you can find me modding electronics and editing code for IoT and hardware projects using Arduinos or Raspberry Pis.</p>
 
 <h2 align="left">My Tech Stack</h2>
 
